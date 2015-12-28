@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/businesslogic/AccountObject.java=UTF-8
+encoding//src/businesslogic/AdminOptions.java=UTF-8
+encoding//src/businesslogic/DBClient.java=UTF-8
+encoding//src/businesslogic/JDBCConnect.java=UTF-8
+encoding//src/businesslogic/OnlineBank.java=UTF-8
+encoding//src/businesslogic/QueryDAO.java=UTF-8
+encoding//src/businesslogic/UserAccountManagement.java=UTF-8
