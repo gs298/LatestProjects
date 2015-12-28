@@ -26,6 +26,9 @@ private List<TransactionHistory> savingsHist ;
 public double getBalance() {
 	return balance;
 }
+
+// adding comment for my understading
+
 public void setBalance(double balance) {
 	this.balance = balance;
 }
