@@ -11,8 +11,8 @@ public class JDBCConnect {
 	
 	public static Connection getDBConnect() {
 	
-	String url = "sql.njit.edu";
-	String ucid = "at353";
+	String url = "********";
+	String ucid = "******";
 	String dbpassword = "********";
 	
 	

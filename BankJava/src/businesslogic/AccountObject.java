@@ -2,6 +2,7 @@ package businesslogic;
 import java.util.List;
 public class AccountObject extends DataObject{
 // Account details are added in this class.
+	private int x;
 private double balance;
 private int acctNumber;
 private String last_trans_date;
@@ -26,6 +27,9 @@ private List<TransactionHistory> savingsHist ;
 public double getBalance() {
 	return balance;
 }
+
+// adding comment for my understading
+
 public void setBalance(double balance) {
 	this.balance = balance;
 }
